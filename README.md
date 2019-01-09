@@ -1,2 +1,2 @@
 # StBase
-Studen Base by Egor Mishin
+Student Base by Egor Mishin
